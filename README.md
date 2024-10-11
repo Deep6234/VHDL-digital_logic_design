@@ -22,4 +22,4 @@ This repository is aimed at:
 
 ## How to Use This Repository
 1. Clone the repository to your local machine:
-   git clone https://github.com/YourUsername/VHDL-digital_logic_design.git
+   git clone https://github.com/Deep6234/VHDL-digital_logic_design.git
