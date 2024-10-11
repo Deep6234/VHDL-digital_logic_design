@@ -22,5 +22,21 @@ This repository is aimed at:
 
 ## How to Use This Repository
 1. Clone the repository to your local machine:
-   ```bash
    git clone https://github.com/YourUsername/VHDL-digital_logic_design.git
+
+   VHDL-digital_logic_design/
+│
+├── multiplexer/
+│   ├── multiplexer.vhd          # VHDL code for multiplexer
+│   ├── testbench_multiplexer.vhd # Testbench for multiplexer
+│
+├── decoder/
+│   ├── decoder.vhd              # VHDL code for decoder
+│   ├── testbench_decoder.vhd     # Testbench for decoder
+│
+├── adder/
+│   ├── half_adder.vhd           # VHDL code for half adder
+│   ├── full_adder.vhd           # VHDL code for full adder
+│   ├── testbench_adder.vhd      # Testbench for adder circuits
+│
+└── README.md                    # Repository documentation
